@@ -1,0 +1,11 @@
+name: patient
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pytest
+  - pytest-cov
+prefix: C:\Users\slmu1g18\anaconda3\envs\patient
